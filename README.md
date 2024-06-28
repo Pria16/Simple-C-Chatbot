@@ -77,11 +77,9 @@ string getResponse(const string& input) {
 </code>
 </pre>
 
-<h2>Contributing</h2>
-<p>Contributions are welcome! Feel free to submit a pull request or open an issue to discuss what you would like to change.</p>
+<h3>Thank You</h3>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
+
 
 </body>
 </html>
