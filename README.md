@@ -3,11 +3,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> Chatbot Project </title>
+    <title>  </title>
 </head>
 <body>
-
-<h1>Simple C++ Chatbot</h1>
+<h1> CHATBOT </h1>
+<h2>Simple C++ Chatbot</h2>
 
 <p>This project is a simple chatbot written in C++. The chatbot can respond to basic greetings and questions with predefined responses.</p>
 
