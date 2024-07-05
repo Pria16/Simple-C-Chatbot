@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Chatbot Project</title>
+    <title> Chatbot Project </title>
 </head>
 <body>
 
